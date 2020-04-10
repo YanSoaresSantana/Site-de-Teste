@@ -1,7 +1,7 @@
 # markdown (md)
 # oi isso é 1 teste
  
-  <h2>listas<h2>
+  <h1>listas<h1>
  
   # emojis
  
@@ -10,6 +10,18 @@
   # listras
  
  # titulos
-<h1>oi<h1>
+# oi
+
+:laughing:
  
  
+ 
+ 
+
+teste1|teste2|teste3
+---|---|---
+teste01|teste02|teste03
+
+<h1>olha pra mim</h1
+ 
+ [botão que faz vc entrar no site do google](http://www.google.com/search)
